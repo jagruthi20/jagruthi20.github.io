@@ -3,15 +3,15 @@ body{
   padding: 5% 5%;
   color: #037277;
   background-color: #73eef4;
-  background-image: linear-gradient(to bottom right, #73eef4, white);
+  background-image: linear-gradient(to right, #73eef4, white);
   }
 
 html{
   background-color: #73eef4;
-  background-image: linear-gradient(to bottom right, #73eef4, white);
+  background-image: linear-gradient(to right, #73eef4, white);
 }
 
 .container{
     background-color: #73eef4;
-   background-image: linear-gradient(to bottom right, #73eef4, white);
+   background-image: linear-gradient(to right, #73eef4, white);
 }
