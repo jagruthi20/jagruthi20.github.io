@@ -4,3 +4,6 @@ body{
   background-image: linear-gradient(to bottom right, red, yellow);
   }
 
+html{
+  background-image: linear-gradient(to right, red, yellow);
+}
