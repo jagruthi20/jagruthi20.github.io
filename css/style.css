@@ -1,9 +1,13 @@
 body{
   margin: 5% 5%;
   padding: 5% 5%;
-  background-image: linear-gradient(to bottom right, red, yellow);
+  background-image: linear-gradient(to right, red, yellow);
   }
 
 html{
   background-image: linear-gradient(to right, red, yellow);
+}
+
+.container{
+   background-image: linear-gradient(to right, red, yellow);
 }
