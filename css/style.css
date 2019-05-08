@@ -1,16 +1,17 @@
 body{
   margin: 5% 5%;
   padding: 5% 5%;
+  color
   background-color: red;
-  background-image: linear-gradient(to right, red, yellow);
+  background-image: linear-gradient(to bottom right, #73eef4, white);
   }
 
 html{
   background-color: red;
-  background-image: linear-gradient(to right, red, yellow);
+  background-image: linear-gradient(to bottom right, #73eef4, white);
 }
 
 .container{
     background-color: red;
-   background-image: linear-gradient(to right, red, yellow);
+   background-image: linear-gradient(to bottom right, #73eef4, white);
 }
